@@ -2,3 +2,7 @@ This is a text file
 # Assignment4
 
 # Adding a new line for step 11
+
+Adding another line here
+
+testing-new-files
